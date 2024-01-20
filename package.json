@@ -4,7 +4,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -34,5 +33,4 @@
     "gh-pages": "^6.1.1",
     "vite": "^5.0.8"
   }
-  
 }
