@@ -1,5 +1,5 @@
 {
-  "homepage": "<https://kncstlln.github.io/app-clone>",
+  "homepage": "https://kncstlln.github.io/app-clone",
   "name": "app-clone",
   "private": true,
   "version": "0.0.0",
@@ -11,7 +11,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
